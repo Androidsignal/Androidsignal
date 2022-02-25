@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working as Full time freelancer.
 - 🌱 I’m currently learning more about BlockChain.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about Flutter or any mobile app related.
 - 😄 Pronouns: He/His
 
 
