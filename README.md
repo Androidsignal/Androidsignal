@@ -1,8 +1,8 @@
-## 👋 Hey, I am Ravi Vithani 
-
-✅. Experienced (Flutter | Android | IOS | Web).<br/>
-✅. Full-time available with quality work.<br/>
-✅. Recommended by clients.<br/><br/>
+## <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/> Hey, I am Ravi Vithani 
+<img height="180em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+✅ Experienced (Flutter | Android | IOS | Web).<br/>  
+✅ Full-time available with quality work.<br/>
+✅ Recommended by clients.<br/><br/>
 
 I'm a freelance Flutter Mobile Application Developer offering more than 4 years of experience building, integrating, testing, and supporting apps using various frontend frameworks. I'm always ready or excited to learn new things.<br/><br/>
 
@@ -56,3 +56,18 @@ Flutter, Java, Kotlin, IOS with objective c and swift, All Firebase services (Re
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+
+
+
+<div align="left">
+ 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Androidsignal&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Androidsignal&theme=dark"/>
+  <br>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Androidsignal&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
+  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Androidsignal&theme=monokai"/>
+
+   </div>
+   
+![](https://github-profile-trophy.vercel.app/?username=Androidsignal&no-frame=true&no-bg=false&margin-w=5)<br/>
