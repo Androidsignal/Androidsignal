@@ -4,31 +4,39 @@
 ✅ Full-time available with quality work.<br/>
 ✅ Recommended by clients.<br/><br/>
 
-I'm a freelance Flutter Mobile Application Developer offering more than 4 years of experience building, integrating, testing, and supporting apps using various frontend frameworks. I'm always ready or excited to learn new things.<br/><br/>
+Thank you for reviewing my profile. Here's a quick overview of my skills and strengths:
 
-Flutter, Java, Kotlin, IOS with objective c and swift, All Firebase services (Real-time DB, Firestore, Storage, Analytics, Crashlytics), and I can able to work with Provider, Riverpod, BLOC, GetX, Redux design patterns.<br/><br/><br/>
- 
-👨‍💻 Development Skils:<br/>
+I have over 5 years of expertise in mobile app development using Flutter, a highly acclaimed and robust cross-platform framework known for creating high-quality and high-performing mobile applications.
 
-• Flutter platform-specific integration. (Android with java and IOS with objective c and swift).<br/>
-• Firebase auth.<br/>
-• Firebase chat.<br/>
-• Firebase push notifications.<br/>
-• Socket-based chat.<br/>
-• Payment gateway integrations.<br/>
-• Flutter Google Map integrations.<br/>
-• Local database (SQLite, Hive, File, and Shared preference).<br/>
-• State management.<br/>
-• Memory management.<br/>
-• API integrations.<br/>
-• Localizations.<br/>
-• Responsive and great UI integrations.<br/>
-• Animations.<br/><br/>
+Throughout my career, I have consistently been recognized as a top performer, earning 5-star ratings from clients on Upwork. My track record demonstrates a commitment to delivering projects promptly and within budget.
 
-💼. Other work:<br/>
+Clients have highly recommended me for my exceptional proficiency, professionalism, and excellent communication skills. Many of them have returned for additional projects and referred me to others, which attests to my dedication and expertise.
 
-[x] Solving external flutter projects Issues.<br/>
-[x] Add features or remaining works in the external flutter projects.<br/>
+I prioritize providing full-time availability and ensuring top-notch work with a focus on user experience, design, and functionality. My expertise spans across various areas, including Mobile App Development, UI/UX Design, Agile Development, iOS, and Android.
+
+In my development work, I possess proficiency in Flutter, Java, Kotlin, Objective-C, Swift, and various Firebase services such as Real-time DB, Firestore, Storage, Analytics, and Crashlytics. I'm well-versed in popular design patterns like Provider, Riverpod, BLOC, GetX, and Redux.
+
+My development skills include:
+
+- Integration of Flutter with platform-specific features (Android with Java and iOS with Objective-C and Swift).
+- Implementation of Firebase authentication.
+- Building Firebase chat functionalities.
+- Incorporating Firebase push notifications.
+- Developing socket-based chat systems.
+- Integrating payment gateways.
+- Utilizing Flutter with Google Maps.
+- Working with various local databases such as SQLite, Hive, File, and Shared preferences.
+- Strong expertise in state management and memory management.
+- Extensive experience in API integrations.
+- Implementation of localization for multi-language support.
+- Creating responsive and visually appealing UI designs.
+- Incorporating animations for enhanced user experience.
+
+Apart from my core development skills, I am also proficient in resolving issues in external Flutter projects and adding new features or completing pending tasks in existing Flutter projects.
+
+I take great pride in my work and always strive to exceed the expectations of my clients, ensuring that the projects I undertake are completed successfully and to the highest standards.
+
+Please note that I am focused on mobile app development and related areas and currently open to new opportunities in this field.
 
 
 <br/>
@@ -56,6 +64,7 @@ Flutter, Java, Kotlin, IOS with objective c and swift, All Firebase services (Re
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
 
 
 
